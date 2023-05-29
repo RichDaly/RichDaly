@@ -2,7 +2,7 @@
 
 ## Personal Profile
 
-A Software Development student pursuing a **Higher Diploma in Science, Software Development** who is eager, driven and committed to learning more within the industry. My background is in education, hospitality, and transportation. I have learned a lot in my past career, especially when it comes to communication, teamwork, leadership, resource management, and timekeeping. I work well under pressure and can efficiently adapt to changing conditions.
+A Software Development graduate with a **Higher Diploma in Science, Software Development** who is eager, driven and committed to learning more within the industry. My background is in education, hospitality, and transportation. I have learned a lot in my past career, especially when it comes to communication, teamwork, leadership, resource management, and timekeeping. I work well under pressure and can efficiently adapt to changing conditions.
 
 Excited to enter the Software Development Industry and enthusiastic about the challenges and opportunities it will bring!
 
